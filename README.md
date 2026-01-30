@@ -6,3 +6,5 @@
 - # Problemas que hemos visto
 - El problema del agente viajero
 - El problema de hacer horarios 
+
+Estos son algunos de los problemas clasicos.

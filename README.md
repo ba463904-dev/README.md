@@ -17,3 +17,4 @@ Estos son algunos de los problemas clasicos.
 - ## Mi proposito 😆
 -  Aprender a usar mas esta pagina, lo cual es muy interesante y funcional. Tambien a poder a programar de manera mas eficiente. 😆
 la formula $$a=\frac{a}{b}$$
+Tomando una funcion $f(n)$ en $o(n)$ si existe 

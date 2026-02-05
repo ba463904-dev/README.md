@@ -16,5 +16,5 @@ Estos son algunos de los problemas clasicos.
 -  Existe un **emparejamiento perfecto** de $X$ a $Y$ **si y sólo si** para todo subconjunto $A \subseteq X$, se cumple: $|A| \subseteq |N(A)|$
 #  Mi proposito 😆
 -  Aprender a usar mas esta pagina, lo cual es muy interesante y funcional. Tambien a poder a programar de manera mas eficiente. 😆
-la formula $$ a=\frac{a}{b}$$
-Tomando una funcion $f(n)$ en $o(n)$ si existe 
+la formula $$a=\frac{a}{b}$$
+Tomando una funcion $f(n)$ en $o(n)$ si existe c
